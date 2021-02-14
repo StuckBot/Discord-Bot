@@ -1,0 +1,4 @@
+t=2020-09-09T12:21:14+0530 lvl=info msg="Got quit command" obj=consoleui
+t=2020-09-09T12:21:14+0530 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2020-09-09T12:21:14+0530 lvl=info msg="session closing" obj=tunnels.session err=nil
+t=2020-09-09T12:21:14+0530 lvl=info msg="accept failed" obj=csess id=b6a1f46a0ab3 err="reconnecting session closed"
